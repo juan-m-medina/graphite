@@ -9,6 +9,12 @@ I am Fred. Yabba-Dabba-Doo!
 
 I am Barney. Fred's neighbor and friend.
 My last name is Rubble.
+=======
+
+# BamBam's notes
+
+I am BamBam. I am pretty strong. I am the son of the Rubble's (Barney and Betty).
+
 
 # Betty's notes
 
